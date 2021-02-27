@@ -34,5 +34,4 @@ https://github.com/tmgorogers/Work-Day-Scheduler/
 
 
 # SCREENSHOT
-[relative reference to a repository file](homework5\Work-Day-Scheduler\WorkDaySchedulerScreenShot.png)
-
+https://github.com/tmgorogers/Work-Day-Scheduler/blob/main/WorkDaySchedulerScreenShot.png
